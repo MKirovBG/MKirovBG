@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👀 I'm currently working on expanding my knowledge with frameworks & libraries<br>🌱 I'm currently learning React⚛️ <br>🧐 I'm interested in Game Development<br>
+👀 I'm currently working as Technical Analyst<br>🌱 I'm currently learning React⚛️ <br>🧐 I'm interested in Game Development<br>
 
 ## 🌐 Socials:
 
