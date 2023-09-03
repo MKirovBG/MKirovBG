@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👀 I'm currently working as Frontend Developer<br> <br>🧐 I'm interested in Game Development<br>
+👀 I'm currently working as Frontend Developer<br> <br>🧐 I'm interested in WEB / Game Development<br>
 
 ## 🌐 Socials:
 
